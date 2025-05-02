@@ -7,6 +7,7 @@
 - Nhưng khi đưa message vào thì: ```Enter text to decrypt: 1634668422544022562287275254811184478161245548888973650857381112077711852144181630709254123963471597994127621183174673720047559236204808750789430675058597
 Lol, good try, can't decrypt that for you. Be creative and good luck```
 - V nên ta sẽ thêm 2 vào
+- Còn vì sao là 2 thì có thể xem trang sau để bt thêm chi tiết : https://crypto.stackexchange.com/questions/2323/how-does-a-chosen-plaintext-attack-on-rsa-work/2331#2331
 - Tức là m ** e (mod n) = c
 - 2 ** e (mod n) = c1 (Dùng E để tạo)
 - ==> (2*m)**e (mod n) = c*c1 = c2
